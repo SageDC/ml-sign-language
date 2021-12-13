@@ -1,5 +1,5 @@
 # CECS 456 - Machine Learning
-Darren Cobian & Frank Kim
+### Darren Cobian & Frank Kim
 
 Instructions on how to run our code:
 1. Please create an account for https://www.kaggle.com/ if you do not have one. 
